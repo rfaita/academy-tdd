@@ -18,15 +18,13 @@ public class Book {
         return id;
     }
 
-       public String getName() {
+    public String getName() {
         return name;
     }
-
 
     public String getIsbn() {
         return isbn;
     }
-
 
 
 }
