@@ -21,12 +21,9 @@ public class Book {
     public String getName() {
         return name;
     }
-  
-    public String getIsbn() {
-        return isbn;
-    }
 
     public String getIsbn() {
         return isbn;
     }
+
 }
