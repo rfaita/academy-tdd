@@ -6,6 +6,10 @@ import java.util.List;
 
 public interface BookStore {
 
+
+
+
+    
     Book add(Book book);
 
     void remove(Book book);
