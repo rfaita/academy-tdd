@@ -41,6 +41,7 @@ public class BookStoreTests {
         //setUp
         Book bookWithId = createBookWithNameISBN("test", "12345");
 
+
         //execution
         BookStore bookStore = new BookStoreImpl();
 
